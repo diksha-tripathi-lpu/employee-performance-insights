@@ -102,6 +102,16 @@ B.Tech CSE | Lovely Professional University
 🔗 [LinkedIn](https://www.linkedin.com/in/diksha-tripathi-0024a1230)  
 🔗 [GitHub](https://github.com/diksha-tripathi-lpu)
 
+**Rishika Singh**
+B.Tech CSE | Lovely Professional University
+🔗 [LinkedIn](https://www.linkedin.com/in/rishika-singh-95588a294) 
+🔗 [GitHub](https://github.com/Rishika-Singh1)
+
+**Abhishek Yadav**
+B.Tech CSE | Lovely Professional University
+🔗 [LinkedIn](https://www.linkedin.com/in/abhi--yadav)  
+🔗 [GitHub](https://github.com/Abhishekyadav9598)
+
 ---
 
 ## 🏷️ Tags
