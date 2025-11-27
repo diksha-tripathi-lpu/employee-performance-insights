@@ -19,7 +19,7 @@ Using unsupervised learning (KMeans) and supervised classification (Random Fores
 ## 📁 Dataset
 
 A custom-generated dataset with 1000 entries containing:
-- Employee ID
+- Employee ID's
 - Department
 - Team
 - Task Completion Efficiency
@@ -122,3 +122,4 @@ B.Tech CSE | Lovely Professional University
 ---
 
 ## ⭐ Found this helpful? Star the repo and connect on LinkedIn!
+
